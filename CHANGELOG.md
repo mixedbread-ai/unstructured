@@ -2,6 +2,8 @@
 
 ### Enhancements
 
+* **Add MixedbreadAI embedder** Adds MixedbreadAI embeddings to support embedding via Mixedbread AI.
+
 ### Features
 
 ### Fixes
